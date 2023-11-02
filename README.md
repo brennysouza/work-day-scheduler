@@ -21,7 +21,12 @@ Users can access this app through the browser and feature HTML, CSS, and JavaScr
 ## Usage
 [Github Repo](https://github.com/brennysouza/work-day-scheduler)
 
+[GitHub Pages Deployed Site](https://brennysouza.github.io/work-day-scheduler/)
+
 [Walkthrough Video](https://drive.google.com/file/d/1zhc3cSEQwB__CztdORm7PXjF04fuqQ8K/view)
+
+![App Screenshot](assets/workdayscreenshot.png)
+
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
